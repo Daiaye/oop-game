@@ -1,9 +1,9 @@
 package engine.positions;
 
-import edu.monash.fit2099.engine.GameEntity;
-import edu.monash.fit2099.engine.actors.Actor;
-import edu.monash.fit2099.engine.actions.ActionList;
-import edu.monash.fit2099.engine.displays.Printable;
+import engine.GameEntity;
+import engine.actors.Actor;
+import engine.actions.ActionList;
+import engine.displays.Printable;
 
 /**
  * Class representing terrain type

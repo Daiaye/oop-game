@@ -1,18 +1,18 @@
 package engine.actors;
 
 
-import edu.monash.fit2099.engine.GameEntity;
-import edu.monash.fit2099.engine.actions.Action;
-import edu.monash.fit2099.engine.actions.ActionList;
-import edu.monash.fit2099.engine.actors.attributes.ActorAttribute;
-import edu.monash.fit2099.engine.actors.attributes.ActorAttributeOperations;
-import edu.monash.fit2099.engine.actors.attributes.BaseActorAttribute;
-import edu.monash.fit2099.engine.actors.attributes.BaseActorAttributes;
-import edu.monash.fit2099.engine.displays.Display;
-import edu.monash.fit2099.engine.displays.Printable;
-import edu.monash.fit2099.engine.weapons.IntrinsicWeapon;
-import edu.monash.fit2099.engine.items.Item;
-import edu.monash.fit2099.engine.positions.GameMap;
+import engine.GameEntity;
+import engine.actions.Action;
+import engine.actions.ActionList;
+import engine.actors.attributes.ActorAttribute;
+import engine.actors.attributes.ActorAttributeOperations;
+import engine.actors.attributes.BaseActorAttribute;
+import engine.actors.attributes.BaseActorAttributes;
+import engine.displays.Display;
+import engine.displays.Printable;
+import engine.weapons.IntrinsicWeapon;
+import engine.items.Item;
+import engine.positions.GameMap;
 
 import java.util.*;
 

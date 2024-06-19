@@ -1,10 +1,10 @@
 package engine.items;
 
-import edu.monash.fit2099.engine.GameEntity;
-import edu.monash.fit2099.engine.actors.Actor;
-import edu.monash.fit2099.engine.actions.ActionList;
-import edu.monash.fit2099.engine.displays.Printable;
-import edu.monash.fit2099.engine.positions.Location;
+import engine.GameEntity;
+import engine.actors.Actor;
+import engine.actions.ActionList;
+import engine.displays.Printable;
+import engine.positions.Location;
 
 /**
  * Abstract base class representing a physical object in the game world.

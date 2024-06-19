@@ -1,8 +1,8 @@
 package engine.displays;
 
-import edu.monash.fit2099.engine.actions.Action;
-import edu.monash.fit2099.engine.actions.ActionList;
-import edu.monash.fit2099.engine.actors.Actor;
+import engine.actions.Action;
+import engine.actions.ActionList;
+import engine.actors.Actor;
 
 import java.util.ArrayList;
 import java.util.Comparator;

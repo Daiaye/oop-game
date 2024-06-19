@@ -1,12 +1,12 @@
 package engine.positions;
 
-import edu.monash.fit2099.engine.actors.Actor;
-import edu.monash.fit2099.engine.actions.DoNothingAction;
-import edu.monash.fit2099.engine.actions.Action;
-import edu.monash.fit2099.engine.actions.ActionList;
-import edu.monash.fit2099.engine.actors.ActorLocationsIterator;
-import edu.monash.fit2099.engine.displays.Display;
-import edu.monash.fit2099.engine.items.Item;
+import engine.actors.Actor;
+import engine.actions.DoNothingAction;
+import engine.actions.Action;
+import engine.actions.ActionList;
+import engine.actors.ActorLocationsIterator;
+import engine.displays.Display;
+import engine.items.Item;
 
 import java.util.ArrayList;
 import java.util.HashMap;

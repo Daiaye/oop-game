@@ -1,7 +1,7 @@
 package engine.actors;
 
-import edu.monash.fit2099.engine.actions.Action;
-import edu.monash.fit2099.engine.positions.GameMap;
+import engine.actions.Action;
+import engine.positions.GameMap;
 
 /**
  * Created by:

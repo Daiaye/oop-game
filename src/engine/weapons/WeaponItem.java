@@ -1,6 +1,6 @@
 package engine.weapons;
 
-import edu.monash.fit2099.engine.items.*;
+import engine.items.*;
 
 /**
  * Class representing items that can be used as a weapon.

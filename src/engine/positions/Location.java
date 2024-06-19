@@ -1,9 +1,9 @@
 package engine.positions;
 
-import edu.monash.fit2099.engine.actors.Actor;
-import edu.monash.fit2099.engine.actions.MoveActorAction;
-import edu.monash.fit2099.engine.displays.Printable;
-import edu.monash.fit2099.engine.items.Item;
+import engine.actors.Actor;
+import engine.actions.MoveActorAction;
+import engine.displays.Printable;
+import engine.items.Item;
 
 import java.util.*;
 

@@ -1,9 +1,9 @@
 package engine.positions;
 
-import edu.monash.fit2099.engine.actors.Actor;
-import edu.monash.fit2099.engine.actors.ActorLocationsIterator;
-import edu.monash.fit2099.engine.displays.Display;
-import edu.monash.fit2099.engine.items.Item;
+import engine.actors.Actor;
+import engine.actors.ActorLocationsIterator;
+import engine.displays.Display;
+import engine.items.Item;
 
 import java.io.IOException;
 import java.nio.file.Files;

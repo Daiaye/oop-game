@@ -1,6 +1,6 @@
 package engine;
 
-import edu.monash.fit2099.engine.capabilities.CapabilitySet;
+import engine.capabilities.CapabilitySet;
 
 import java.util.List;
 

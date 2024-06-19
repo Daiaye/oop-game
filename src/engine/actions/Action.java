@@ -1,7 +1,7 @@
 package engine.actions;
 
-import edu.monash.fit2099.engine.actors.Actor;
-import edu.monash.fit2099.engine.positions.GameMap;
+import engine.actors.Actor;
+import engine.positions.GameMap;
 
 /**
  * Base class for Actions. These represent things that the actor can do.

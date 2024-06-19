@@ -1,8 +1,8 @@
 package engine.actions;
 
-import edu.monash.fit2099.engine.actors.Actor;
-import edu.monash.fit2099.engine.positions.GameMap;
-import edu.monash.fit2099.engine.positions.Location;
+import engine.actors.Actor;
+import engine.positions.GameMap;
+import engine.positions.Location;
 
 /**
  * An Action that moves the Actor.
