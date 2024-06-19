@@ -3,10 +3,10 @@ package game;
 import java.util.Arrays;
 import java.util.List;
 
-import edu.monash.fit2099.engine.displays.Display;
-import edu.monash.fit2099.engine.positions.FancyGroundFactory;
-import edu.monash.fit2099.engine.positions.GameMap;
-import edu.monash.fit2099.engine.positions.World;
+import engine.displays.Display;
+import engine.positions.FancyGroundFactory;
+import engine.positions.GameMap;
+import engine.positions.World;
 import game.actors.HuntsmanSpider;
 import game.actors.Player;
 import game.items.*;

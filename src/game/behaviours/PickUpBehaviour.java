@@ -1,11 +1,11 @@
 package game.behaviours;
-import edu.monash.fit2099.engine.actions.Action;
-import edu.monash.fit2099.engine.actors.Actor;
-import edu.monash.fit2099.engine.actors.Behaviour;
-import edu.monash.fit2099.engine.items.Item;
-import edu.monash.fit2099.engine.items.PickUpAction;
-import edu.monash.fit2099.engine.positions.GameMap;
-import edu.monash.fit2099.engine.positions.Location;
+import engine.actions.Action;
+import engine.actors.Actor;
+import engine.actors.Behaviour;
+import engine.items.Item;
+import engine.items.PickUpAction;
+import engine.positions.GameMap;
+import engine.positions.Location;
 
 import java.util.ArrayList;
 import java.util.List;

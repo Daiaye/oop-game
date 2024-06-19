@@ -1,11 +1,11 @@
 package game.behaviours;
 
-import edu.monash.fit2099.engine.actors.Behaviour;
-import edu.monash.fit2099.engine.actions.Action;
-import edu.monash.fit2099.engine.actors.Actor;
-import edu.monash.fit2099.engine.positions.GameMap;
-import edu.monash.fit2099.engine.positions.Exit;
-import edu.monash.fit2099.engine.positions.Location;
+import engine.actors.Behaviour;
+import engine.actions.Action;
+import engine.actors.Actor;
+import engine.positions.GameMap;
+import engine.positions.Exit;
+import engine.positions.Location;
 import game.actors.attributes.Status;
 import game.actions.AttackAction;
 

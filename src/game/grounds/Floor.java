@@ -1,7 +1,7 @@
 package game.grounds;
 
-import edu.monash.fit2099.engine.positions.Ground;
-import edu.monash.fit2099.engine.actors.Actor;
+import engine.positions.Ground;
+import engine.actors.Actor;
 import game.Ability;
 
 /**

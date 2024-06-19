@@ -1,6 +1,6 @@
 package game.items;
 
-import edu.monash.fit2099.engine.actors.Actor;
+import engine.actors.Actor;
 
 /**
  * Purchasable interface is a class that classifies an item that can be "purchased"

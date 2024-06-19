@@ -1,8 +1,8 @@
 package game.items;
 
-import edu.monash.fit2099.engine.actions.ActionList;
-import edu.monash.fit2099.engine.actors.Actor;
-import edu.monash.fit2099.engine.items.Item;
+import engine.actions.ActionList;
+import engine.actors.Actor;
+import engine.items.Item;
 import game.actions.ConsumeAction;
 import game.grounds.ComputerTerminal;
 

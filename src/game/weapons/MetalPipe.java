@@ -1,10 +1,10 @@
 package game.weapons;
 
-import edu.monash.fit2099.engine.positions.GameMap;
-import edu.monash.fit2099.engine.weapons.WeaponItem;
-import edu.monash.fit2099.engine.actors.Actor;
-import edu.monash.fit2099.engine.actions.ActionList;
-import edu.monash.fit2099.engine.positions.Location;
+import engine.positions.GameMap;
+import engine.weapons.WeaponItem;
+import engine.actors.Actor;
+import engine.actions.ActionList;
+import engine.positions.Location;
 import game.Ability;
 import game.actions.AttackAction;
 import game.items.Sellable;

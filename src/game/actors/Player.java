@@ -1,13 +1,13 @@
 package game.actors;
 
-import edu.monash.fit2099.engine.actions.Action;
-import edu.monash.fit2099.engine.actions.ActionList;
-import edu.monash.fit2099.engine.actors.Actor;
-import edu.monash.fit2099.engine.actors.attributes.BaseActorAttributes;
-import edu.monash.fit2099.engine.displays.Display;
-import edu.monash.fit2099.engine.positions.GameMap;
-import edu.monash.fit2099.engine.displays.Menu;
-import edu.monash.fit2099.engine.weapons.IntrinsicWeapon;
+import engine.actions.Action;
+import engine.actions.ActionList;
+import engine.actors.Actor;
+import engine.actors.attributes.BaseActorAttributes;
+import engine.displays.Display;
+import engine.positions.GameMap;
+import engine.displays.Menu;
+import engine.weapons.IntrinsicWeapon;
 import game.Ability;
 import game.actors.attributes.Status;
 

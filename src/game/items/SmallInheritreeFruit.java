@@ -1,9 +1,9 @@
 package game.items;
 
-import edu.monash.fit2099.engine.actions.ActionList;
-import edu.monash.fit2099.engine.actors.Actor;
+import engine.actions.ActionList;
+import engine.actors.Actor;
 import game.actions.ConsumeAction;
-import edu.monash.fit2099.engine.items.Item;
+import engine.items.Item;
 
 /**
  * SmallInheritreeFruit class is a class that represents a small Inheritree Fruit

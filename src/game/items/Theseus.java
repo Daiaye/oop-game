@@ -1,11 +1,11 @@
 package game.items;
 
-import edu.monash.fit2099.engine.actions.ActionList;
-import edu.monash.fit2099.engine.actors.Actor;
-import edu.monash.fit2099.engine.items.Item;
-import edu.monash.fit2099.engine.positions.GameMap;
-import edu.monash.fit2099.engine.positions.Location;
-import edu.monash.fit2099.engine.positions.NumberRange;
+import engine.actions.ActionList;
+import engine.actors.Actor;
+import engine.items.Item;
+import engine.positions.GameMap;
+import engine.positions.Location;
+import engine.positions.NumberRange;
 import game.actions.TeleportAction;
 import game.actions.TravelAction;
 import game.maps.Travelable;

@@ -1,13 +1,13 @@
 package game.behaviours;
 
 
-import edu.monash.fit2099.engine.actors.Actor;
-import edu.monash.fit2099.engine.actions.Action;
-import edu.monash.fit2099.engine.positions.Exit;
-import edu.monash.fit2099.engine.positions.GameMap;
-import edu.monash.fit2099.engine.positions.Location;
-import edu.monash.fit2099.engine.actions.MoveActorAction;
-import edu.monash.fit2099.engine.actors.Behaviour;
+import engine.actors.Actor;
+import engine.actions.Action;
+import engine.positions.Exit;
+import engine.positions.GameMap;
+import engine.positions.Location;
+import engine.actions.MoveActorAction;
+import engine.actors.Behaviour;
 
 /**
  * A class that figures out a MoveAction that will move the actor one step

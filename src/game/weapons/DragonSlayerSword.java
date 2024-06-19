@@ -1,7 +1,7 @@
 package game.weapons;
 
-import edu.monash.fit2099.engine.actors.Actor;
-import edu.monash.fit2099.engine.weapons.WeaponItem;
+import engine.actors.Actor;
+import engine.weapons.WeaponItem;
 import game.items.Purchasable;
 
 /**

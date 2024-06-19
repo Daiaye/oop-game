@@ -1,8 +1,8 @@
 package game.maps;
 
-import edu.monash.fit2099.engine.actors.Actor;
-import edu.monash.fit2099.engine.positions.GameMap;
-import edu.monash.fit2099.engine.positions.GroundFactory;
+import engine.actors.Actor;
+import engine.positions.GameMap;
+import engine.positions.GroundFactory;
 
 import java.sql.Ref;
 import java.util.List;

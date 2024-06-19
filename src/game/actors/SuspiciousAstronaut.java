@@ -1,6 +1,6 @@
 package game.actors;
 
-import edu.monash.fit2099.engine.weapons.IntrinsicWeapon;
+import engine.weapons.IntrinsicWeapon;
 import game.behaviours.AttackBehaviour;
 
 public class SuspiciousAstronaut extends Creature {

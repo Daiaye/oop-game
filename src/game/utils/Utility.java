@@ -1,7 +1,7 @@
 package game.utils;
 
-import edu.monash.fit2099.engine.positions.Location;
-import edu.monash.fit2099.engine.positions.Exit;
+import engine.positions.Location;
+import engine.positions.Exit;
 
 import java.util.Random;
 import java.util.List;
